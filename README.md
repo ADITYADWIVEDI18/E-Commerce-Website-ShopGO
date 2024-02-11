@@ -1,3 +1,5 @@
+https://shopgoshop.netlify.app
+
 ## e-Commerce-Website-ShopGO
 
 This is a website based on HTML,CSS,JS
